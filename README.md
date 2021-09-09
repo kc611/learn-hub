@@ -9,6 +9,5 @@ A list of all the available courses can be acquired by running
 ```
 python learn list
 ```
-Linux users can remove the `python` part from both the commands.
 
 
