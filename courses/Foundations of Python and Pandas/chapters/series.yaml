@@ -1,0 +1,37 @@
+- Category: text
+  Prompt: "Pandas is an Expansive library with a huge API. Let's distill some `pandas` wisdom."
+
+- Category: text
+  Prompt: "First we'll talk about series. Series is the building block of `pandas`."
+
+- Category: mcq
+  Prompt: "So which of the following do you think is an advantage of using Pandas?"
+  Options:
+  - Drastically reducing local storage space.
+  - Saving valuable time by eliminating boilerplate code.
+  - Easy datasets management and can be easily accessed by everyone.
+  - Endless experimentation.
+  - All of the above. Pandas is totally epic!
+  Answer: All of the above. Pandas is totally epic!
+  Hints:
+  - "That's indeed an advantage, but there are more! :)"
+  - "That's indeed an advantage, but there are more! :)"
+  - "That's indeed an advantage, but there are more! :)"
+  - "That's indeed an advantage, but there are more! :)"
+  - "That's correct! Isn't Pandas amazing?"
+
+- Category: text
+  Prompt: "Now we shall use a small program to crete a pandas Series."
+
+- Category: code
+  Prompt: "So without further ado, let's get started.\nLet's import pandas, type `import pandas as pd` to do so"
+  Answer: import pandas as pd
+  Hints: "Do you have pandas installed?\nrun `pip install pandas` to install pandas"
+
+- Category: code
+  Prompt: "We will create a simple pandas Series. \n Type `s = pd.Series([6, 8, 7, 5])` below."
+  Answer: s = pd.Series([6, 8, 7, 5])
+  Hints: "Are you correctly passing the values?"
+
+- Category: text
+  Prompt: "Congrats you just created your first pandas Series"
